@@ -17,6 +17,7 @@ The first red LED blinks when the device is active (playing back or recording). 
 
 ### Development Images
 
+<<<<<<< HEAD
 ![](https://raw.github.com/jeremyaburns/NEScorder/master/dev-images/1.jpg)  
 ![](https://raw.github.com/jeremyaburns/NEScorder/master/dev-images/2.jpg)  
 ![](https://raw.github.com/jeremyaburns/NEScorder/master/dev-images/3.jpg)  
@@ -26,3 +27,6 @@ The first red LED blinks when the device is active (playing back or recording). 
 ![](https://raw.github.com/jeremyaburns/NEScorder/master/dev-images/7.jpg)  
 ![](https://raw.github.com/jeremyaburns/NEScorder/master/dev-images/8.jpg)  
 ![](https://raw.github.com/jeremyaburns/NEScorder/master/dev-images/9.jpg)  
+=======
+![](https://raw.github.com/jeremyaburns/NEScorder/master/NEScorder_JAB_rev2.png)
+>>>>>>> d0bb08c8228b8dd2fb163d8638d57173cde271e5
